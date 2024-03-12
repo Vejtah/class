@@ -1,3 +1,3 @@
 # random
 
-This is a random project
+This is a random project.
