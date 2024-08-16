@@ -1,2 +1,2 @@
-Noah,15
-Alex,16
+Noah15
+Alex16
