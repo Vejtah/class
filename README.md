@@ -1,3 +1,3 @@
-# random
+# class
 
-This is a random project.
+This is a part of private project.
